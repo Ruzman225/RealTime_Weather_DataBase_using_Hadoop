@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Database and generated data
+data/weather.db
+data/*.db
+*.log
+
+# Hadoop temporary files
+tmp/
+logs/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
